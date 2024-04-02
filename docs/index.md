@@ -1,4 +1,4 @@
-***<p style="text-align: center;">(208)312-8804  | goldenspencerh@gmail.com | <a href="https://www.linkedin.com/in/spencer-hepworth/"> Find me on Linked In </a> </p>***
+<p style="text-align: center;">(208)312-8804  | goldenspencerh@gmail.com | <a href="https://www.linkedin.com/in/spencer-hepworth/"> Find me on Linked In </a> </p>
 <h1 style="text-align: center;">SPENCER HEPWORTH </h1>
 
 ## EDUCATION
